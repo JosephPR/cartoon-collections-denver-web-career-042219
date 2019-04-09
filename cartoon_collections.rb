@@ -2,8 +2,8 @@ def roll_call_dwarves(arr)
 arr.each_with_index{|a,index| puts  "#{index +1 } #{a}"}
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet(arr)
+  arr.collect{|a| puts a}
 end
 
 def long_planeteer_calls# code an argument here
