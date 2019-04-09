@@ -6,7 +6,7 @@ def summon_captain_planet(arr)
   arr.collect{|a| puts a}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls())
   # Your code here
 end
 
